@@ -12,5 +12,6 @@
 		"url": "https://idontknow/todo.git"
 	},
 	"author": "Lucas M Rodriguez",
-	"description": "add description"
+	"description": "add description",
+	"keywords": ["practice","learning","testing"]
 }
