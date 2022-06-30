@@ -13,5 +13,10 @@
 	},
 	"author": "Lucas M Rodriguez",
 	"description": "add description",
-	"keywords": ["practice","learning","testing"]
+	"keywords": [
+		"practice",
+		"learning",
+		"testing",
+    "freecodecamp"
+	]
 }
