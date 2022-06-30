@@ -11,5 +11,6 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
-	"author": "Lucas M Rodriguez"
+	"author": "Lucas M Rodriguez",
+	"description": "add description"
 }
